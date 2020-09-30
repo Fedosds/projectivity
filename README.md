@@ -1,10 +1,10 @@
-# Отчет о лабораторных работах
-# студент группы [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Иванкин Ф.А.
+# Отчет о лабораторных работах <br>
+# студента группы [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Иванкина Ф.А.
 
 ## Лабораторная 1
 
 Фотограф делает снимок
-<br>![a]()
+<br>![photo1](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A0.png?raw=true)
 <br>Диаграмма классов
 <br>![a]()
 <br>Диаграмма прецедентов
