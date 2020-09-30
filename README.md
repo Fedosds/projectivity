@@ -5,11 +5,11 @@
 
 Фотограф делает снимок
 
-<br>![photo1](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A0.png?raw=true)
+<br>![ramus](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A0.png?raw=true)
 Фотограф делает снимки на заказ своим пленочным фотоаппаратом
 
 <br>Диаграмма классов
-<br>![a]()
+<br>![Plat](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A1.png?raw=true)
 <br>Диаграмма прецедентов
 <br>![a]()
 
