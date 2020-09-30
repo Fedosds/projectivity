@@ -4,14 +4,13 @@
 ## Лабораторная 1
 
 Фотограф делает снимок
-
-<br>![ramus](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A0.png?raw=true)
+![ramus](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A0.png?raw=true)
 Фотограф делает снимки на заказ своим пленочным фотоаппаратом
 
-<br>Диаграмма классов
+Диаграмма классов
 <br>![Plat](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A1.png?raw=true)
 
-<br>Диаграмма прецедентов
+Диаграмма прецедентов
 <br>![Prez](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A2.png?raw=true)
 
 ## Лабораторная 2
