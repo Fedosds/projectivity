@@ -10,6 +10,8 @@
 
 <br>Диаграмма классов
 <br>![Plat](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A1.png?raw=true)
+
+![blah](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://github.com/Fedosds/projectivity/blob/master/lab1/Plat.txt)
 <br>Диаграмма прецедентов
 <br>![a]()
 
