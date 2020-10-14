@@ -14,6 +14,14 @@
 <br>![Prez](https://github.com/Fedosds/projectivity/blob/master/lab1/01_A2.png?raw=true)
 
 ## Лабораторная 2
+IDF0 диаграмма:
+![ramus2](https://github.com/Fedosds/projectivity/blob/master/lab2/model1.png?raw=true)
+![ramus3](https://github.com/Fedosds/projectivity/blob/master/lab2/model2.png?raw=true)
+DFD-диаграмма:
+![ramus4](https://github.com/Fedosds/projectivity/blob/master/lab2/model3.png?raw=true)
+
+##Usecase diagram
+![Plant](https://github.com/Fedosds/projectivity/blob/master/lab2/2.png?raw=true)
 
 ## Лабораторная 3
 
