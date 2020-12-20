@@ -6,6 +6,6 @@
 
 ## Домашние задания по [семинарам 3-4](https://github.com/Fedosds/projectivity/wiki/Business-game---Team-%22squad%22)
 
-## [Отчет](#) по лабораторным работам 4-6
+## [Отчет](https://github.com/Fedosds/projectivity/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-4-6) по лабораторным работам 4-6
 
 ## Рефераты: [разработанный](#) и [проверенный](#)
