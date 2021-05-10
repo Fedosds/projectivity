@@ -38,7 +38,7 @@ case4 ..> case7
 case6 ..> case11
 case7 ..> case11
 case5 ..> case8
-case5 ..> case9
+case8 ..> case9
 
 
 Начальник_склада --> case1
