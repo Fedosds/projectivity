@@ -1,0 +1,60 @@
+@startuml
+skinparam actor {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+
+skinparam boundary {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+
+skinparam entity {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+
+skinparam database {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+ 
+skinparam component {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+
+skinparam sequence {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+LifeLineBorderColor Black
+}
+
+actor "Сотрудник склада" as user
+boundary "Система регистрации" as reg
+boundary "Приложение" as app
+entity "Сервер" as server
+database "БД" as database
+
+
+user -> reg : Скан документации
+reg -> app : Передача распознанных даных
+app -> server : post-запрос
+server -> database : Регистрация полученных данных
+server <- database : Статус операции
+app <- server : Ответ на запрос
+reg <- app : Данные внесены
+user <- reg : Операция выполнена
+user -> app : Запрос на формирование отчета
+app -> server : get-запрос
+server -> database : Запрос на получение информации
+server <- database : Получение актуальной информации
+app <- server : Ответ на запрос
+user <- app : Получение обновленной информации
+@enduml
